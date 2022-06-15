@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897960133400",
+    "project_id": "zakipenjualan",
+    "storage_bucket": "zakipenjualan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897960133400:android:064c1894695cdc6997146d",
+        "android_client_info": {
+          "package_name": "com.example.zaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897960133400-2en0f8dl6v5oallhkjel3a1t5lmm052g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQ5m4cwLeXNfXwZJTbfvdL0oLnDOgUh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897960133400-2en0f8dl6v5oallhkjel3a1t5lmm052g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
